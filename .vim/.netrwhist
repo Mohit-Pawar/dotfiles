@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/mohit/OpenSource/ruby/rack/lib/rack/session'
+let g:netrw_dirhist_2='/home/mohit/.vim/bundle/nerdtree'
+let g:netrw_dirhist_3='/home/mohit/.vim/bundle'
+let g:netrw_dirhist_4='/home/mohit/.vim'
+let g:netrw_dirhist_5='/home/mohit'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_8='/home/mohit/BrandscopeV3/app/controllers'
